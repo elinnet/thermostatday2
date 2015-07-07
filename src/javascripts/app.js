@@ -1,0 +1,3 @@
+
+
+getElementById("temp") = "60";
